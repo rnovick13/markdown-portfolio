@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Rachel Novick
+## Developer in Ruby, Ruby on Rails, JavaScript, React, Redux, HTML, CSS
